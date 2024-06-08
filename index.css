@@ -11,7 +11,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   overflow: hidden;
-  background: url("bg.png"), -webkit-linear-gradient(330deg, #0250c5, #ececec);
+  background: url("bg.png"), -webkit-linear-gradient(330deg, #0250c582, #ececec);
 }
 ::selection{
   color: #fff;
